@@ -1,0 +1,2 @@
+# AI startup website template html
+The Repo refers to a Data Science & AI HTML Template website template. This template can be used as a starting point for building a AI startup website and includes various design and layout elements. The highlights of this template may include its simplicity, customization options, and responsiveness to different screen sizes. It can be a useful tool for individuals or businesses looking to create a website quickly and easily.
